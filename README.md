@@ -28,3 +28,11 @@ Ensure you have the following Python libraries installed:
 - scipy
 - statsmodels
 
+## Preview
+
+![image](https://github.com/dimicodes/Bank_Debts_Data/assets/45632694/ebadc4e6-b419-4c08-89b8-dfb01379fdc9)
+
+![image](https://github.com/dimicodes/Bank_Debts_Data/assets/45632694/14f2670e-935b-41cb-b986-9bde893cc82a)
+
+
+

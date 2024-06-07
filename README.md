@@ -34,5 +34,8 @@ Ensure you have the following Python libraries installed:
 
 ![image](https://github.com/dimicodes/Bank_Debts_Data/assets/45632694/14f2670e-935b-41cb-b986-9bde893cc82a)
 
+![image](https://github.com/dimicodes/Bank_Debts_Data/assets/45632694/d84ad3e5-eee4-4646-9972-c6a50b8ee626)
+
+
 
 
